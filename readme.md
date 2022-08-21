@@ -24,4 +24,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 8. Start the development server by running the following command ```bash yarn start```
 9. To check if the frontend is working point your browser to `http://localhost:3001/register` and create a new user
 
-Congratulations! You have successfully setup the tools that you will need to work with this project.
+Congratulations! You have successfully set up the tools that you will need to work with this project.
