@@ -19,6 +19,9 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 3. Next open the repository in your IDE/Code Editor
 4. Open your terminal (If you are using an editor like Webstorm or VS Code, there is an integrated terminal) and run the command ```bash docker-compose up```
 5. To check if the backend is working point your browser to `http://localhost:3000/api/ping`
-6. To check if the frontend is working point your browser to `http://localhost:3001/register` and create a new user
+6. In a different terminal tab go to the frontend directory ```bash cd frontend/```
+7. Install dependencies by running the following command ```bash Yarn```
+8. Start the development server by running the following command ```bash yarn start```
+9. To check if the frontend is working point your browser to `http://localhost:3001/register` and create a new user
 
 Congratulations! You have successfully setup the tools that you will need to work with this project.
