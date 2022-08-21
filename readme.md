@@ -11,3 +11,14 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+## Getting Started:
+
+1. First clone [this repo](https://github.com/ObelusFamily/Anythink-Market-me6mo)
+2. Download and install [Docker](https://github.com/ObelusFamily/Anythink-Market-me6mo)
+3. Next open the repository in your IDE/Code Editor
+4. Open your terminal (If you are using an editor like Webstorm or VS Code, there is an integrated terminal) and run the command ```bash docker-compose up```
+5. To check if the backend is working point your browser to `http://localhost:3000/api/ping`
+6. To check if the frontend is working point your browser to `http://localhost:3001/register` and create a new user
+
+Congratulations! You have successfully setup the tools that you will need to work with this project.
